@@ -4,3 +4,8 @@
 #### Их архитектура + мой датасет (вдое больший) = делают предсказания на уровне монетки:  
 
 ![](https://raw.githubusercontent.com/unton3ton/my-check-for-a-result-from-an-ai-article/main/test-articel.png)
+
+
+### Source
+
+* [Свёрточный и полносвязный бинарные классификаторы для DCT&SVD-watermarks](https://github.com/tonypithony/Binary-classification-for-DCTandSVD-watermarks)
